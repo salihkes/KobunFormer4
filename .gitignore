@@ -1,0 +1,19 @@
+# Folders with copyrighted material
+data/
+works/
+
+# Python cache
+__pycache__/
+
+# RAG cache
+.rag_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Output from the script
+transformations/
+
+# Environment variables
+.env

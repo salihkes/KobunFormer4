@@ -1,0 +1,7 @@
+ollama
+openai
+numpy
+scikit-learn
+torch
+transformers
+FlagEmbedding

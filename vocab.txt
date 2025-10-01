@@ -1,0 +1,11 @@
+|---Use!--|-----Modern-----|--------English-------|
+|---------|----------------|----------------------|
+|虚実空間   | 仮想現実       | Virtual Reality      |
+|仮想遊戯場 | オンラインゲームプラットフォーム | Online Game Platform |
+|仮想世界   | メタバース       | Metaverse            |
+|機巧学習   | 機械学習       | Machine Learning     |
+|人造知性   | 人工知能       | Artificial Intelligence |
+|化身       | アバター       | Avatar               |
+|映し身     | デジタルツイン   | Digital Twin         |
+|脳擬回路網 | 神経回路網     | Neural Network       |
+|サリーヒ壱  | salih1       | salih1 (username)     |
